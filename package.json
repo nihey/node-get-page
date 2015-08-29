@@ -1,0 +1,25 @@
+{
+  "name": "get-page",
+  "version": "0.1.0",
+  "description": "Clean HTTP requests to scrap internet pages",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nihey/node-get-page.git"
+  },
+  "keywords": [
+    "http",
+    "request",
+    "page",
+    "scrapping"
+  ],
+  "author": "Nihey Takizawa <nihey.takizawa@gmail.com>",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/nihey/node-get-page/issues"
+  },
+  "homepage": "https://github.com/nihey/node-get-page"
+}
